@@ -1,12 +1,12 @@
 .name{
     border-radius: 10px;
-    background-color: #1F2833;
+    background-color: #242582;
     width: 330px;
     display: flex;
     margin: 0 auto 15px auto;
     justify-content: center;
     font-family: Georgia, serif;
-    color:#66FCF1 ;
+    color:#ffffff ;
 }
 .indent{
     height: 40px;
@@ -20,7 +20,7 @@
 .text{
     font-size: 30px;
     border-radius: 10px;
-    background-color: #1F2833;
+    background-color: #242582;
     font-size: 25px;
     width: 350px;
     padding: 15px;
@@ -28,14 +28,14 @@
     margin: 0 auto 15px auto;
     justify-content: center;
     font-family: Georgia, serif;
-    color:#66FCF1 ;
+    color:#ffffff ;
 }
 
 .button{
     font-weight: 900;
     font-size: 18px;
     border-radius: 100px;
-    background-color: #66FCF1;
+    background-color: #F64C72;
     border-radius:100px ;
     height: 120px;
     width: 120px;

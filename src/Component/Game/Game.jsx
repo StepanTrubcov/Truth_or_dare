@@ -82,12 +82,3 @@ const Game = (props) => {
 };
 
 export default Game;
-
-
-{/* <div>
-          <button >Получить вопрос или задание</button>
-          {currentQuestion && (
-            <div>
-              <h2>{isTruth ? 'Правда' : 'Действие'}</h2>
-              <p>{currentQuestion}</p>
-            </div> */}
