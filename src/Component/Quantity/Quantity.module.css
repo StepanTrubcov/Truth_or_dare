@@ -1,19 +1,19 @@
 .text{
     border-radius: 10px;
-    background-color: #242582;
+    background-color: #1F2833;
     width: 360px;
     font-family: Georgia, serif;
     margin: 0 auto;
     font-size: 14px;
     display: flex;
     justify-content: center;
-    color:#ffffff ;
+    color:#39ff14 ;
 }
 
 .button{
     border-radius: 10px;
-    background-color: #F64C72;
-    color:#ffffff;
+    background-color: #242d38;
+    color:#39ff14;
     margin:15px;
     width: 300px;
     height: 45px;
